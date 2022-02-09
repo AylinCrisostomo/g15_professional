@@ -1,0 +1,21 @@
+div.uno{
+    width: 30%;
+    height: 100vh;
+    background-color: blue;
+}
+
+div.dos{
+    width: 30%;
+    height: 100vh;
+    background-color: orangered;
+}
+
+div.tres{
+    width: 30%;
+    height: 100vh;
+    background-color: green;
+}
+
+@media only screen and (max-width:1200px){
+
+}

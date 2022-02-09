@@ -1,0 +1,19 @@
+h1{
+    color: crimson;
+    background-color: chartreuse;
+}
+
+a{
+    color: crimson;
+}
+
+#primer{
+    color: darkmagenta;
+}
+#segundo{
+    color: darksalmon;
+}
+
+.tipo{
+    font-size: 30px;
+}

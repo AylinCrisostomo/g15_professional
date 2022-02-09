@@ -1,0 +1,44 @@
+.fondo{
+    background-color: blue;
+    width: 700px;
+    height: 400px;
+    display: flex;
+    align-content: space-between;
+
+}
+
+.parte1{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+.parte2{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.blanco{
+    background-color: white;
+    width: 180px;
+    height: 180px;
+}
+
+.blanco2{
+    background-color: white;
+    width: 180px;
+    height: 180px;
+}
+
+.blanco21{
+    background-color: white;
+    width: 360px;
+    height: 180px;
+}
+
+.blanco22{
+    background-color: white;
+    width: 360px;
+    height: 180px;
+}
